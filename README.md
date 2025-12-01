@@ -16,31 +16,27 @@
 
 ---
 
-## 🚀 About Me
+![GIF](Readme_assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-🎓 I’m **Diya Matani**, a **B.Tech CSE undergrad at VIT Bhopal University (2022–2026)**, with a strong foundation in computer science and a CGPA of **8.89/10**. :contentReference[oaicite:1]{index=1}  
-🏫 Completed my higher secondary education at **D.A.V. Public School, Kota** with **93.6% (CBSE)**. :contentReference[oaicite:2]{index=2}  
-💻 Worked as a **Software Development Intern at BLG Technologies**, where I helped build and deploy a live **Hostel Management Portal** with analytics dashboards and real-time tracking. :contentReference[oaicite:3]{index=3}  
-📊 Passionate about **Machine Learning, Data Analytics, and Backend Development** — from building regression models to marketing analytics dashboards. :contentReference[oaicite:4]{index=4}  
-🧠 Strong in **DSA & OOP**, with **500+ problems solved** across LeetCode, GfG, and other coding platforms. :contentReference[oaicite:5]{index=5}  
-🏅 **Limca Book of Records & Indian Book of Records holder** for outstanding performance at Trendz Abacus, and **Runner-up** among top 10 finalists in **Industry Conclave VITB 2024 Project Expo**. :contentReference[oaicite:6]{index=6}  
+<div align="Center">
 
----
+<a href="https://leetcode.com/diyamatani12/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode" />
+</a>
 
-## 🧰 Tech Stack
+<a href="https://auth.https://geeksforgeeks.org/profile/diyamato5s3" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Geeksforgeeks" />
+</a>
 
-**Languages & CS Fundamentals**
+<a href="https://www.linkedin.com/in/diya-matani/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin" />
+</a> 
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord">
 
-**Data Science & Analytics**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge
+![Photo](Readme_assets/Personal_Information.png)
+
+<br>
+
