@@ -20,11 +20,11 @@
 
 <div align="Center">
 
-<a href="https://leetcode.com/diyamatani12/" target="_blank">
+<a href="https://leetcode.com/u/diyamatani17/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode" />
 </a>
 
-<a href="https://auth.https://geeksforgeeks.org/profile/diyamato5s3" target="_blank">
+<a href="https://www.geeksforgeeks.org/profile/diyamato5s3" target="_blank">
   <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Geeksforgeeks" />
 </a>
 
@@ -36,7 +36,6 @@
 
 </div>
 
-![Photo](Readme_assets/Personal_Information.png)
 
 <br>
 
