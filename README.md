@@ -33,7 +33,6 @@
 <p>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   
@@ -114,8 +113,3 @@ Analyzed 64,000+ customer records to predict conversion probability.
 
 ---
 
-## 💻 Running This Portfolio locally
-
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/diya-matani/Portfolio.git](https://github.com/diya-matani/Portfolio.git)
