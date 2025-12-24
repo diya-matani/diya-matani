@@ -16,15 +16,24 @@
 
 ## 🚀 About Me
 
-🎓 I’m **Diya Matani**, a **B.Tech CSE undergrad at VIT Bhopal University (2022–2026)** with a CGPA of **8.89/10**.  
+🎓 I’m **Diya Matani**, a **B.Tech CSE undergraduate at VIT Bhopal University (2022–2026)** with a CGPA of **8.89/10**.  
 🏫 Schooling: **DAV Public School, Kota** — 93.6% (CBSE).
 
-💻 Worked as a **Data Engineering Intern at BLG Technologies**, building automated ETL pipelines and backend services.
+💻 Worked as a **Data Engineering Intern at BLG Technologies**, where I built automated ETL pipelines and backend services to process and analyze data efficiently.
 
-📊 Passionate about **Machine Learning, Data Analytics, and Full Stack Development**.  
-🧠 Solved **500+ DSA problems** on LeetCode, GFG, and coding platforms.  
+📊 Passionate about **Machine Learning, Data Analytics, Generative AI, and Full-Stack Development**.  
+🧠 Solved **500+ DSA problems** across LeetCode, GeeksforGeeks, and other platforms.  
 🏅 **Limca Book of Records & Indian Book of Records holder** (Trendz Abacus).  
-🥈 **Runner-up** among top finalists in **Industry Conclave VITB 2024 Project Expo**.
+🥈 **Runner-up** among top finalists at **Industry Conclave VIT Bhopal 2024 – Project Expo**.
+
+---
+
+## 🌐 Portfolio
+
+🚀 **Explore my work here:**  
+👉 **https://diya-verse.vercel.app/**  
+
+A clean one-page portfolio showcasing my projects, skills, and experience.
 
 ---
 
@@ -35,17 +44,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  
+
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  
-  <!-- Backend/Data -->
+
+  <!-- Backend / Data -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  
+
   <!-- Domains -->
   <img src="https://img.shields.io/badge/Machine%20Learning-0099ff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge"/>
@@ -56,60 +65,58 @@
 
 ## 🚩 Highlight Projects
 
-### 🎥 **Netflix-Inspired Portfolio (This Project)**
-A fully responsive, interactive personal website with a Netflix-themed UI.
+### 🎥 **Netflix-Inspired Portfolio**
+A fully responsive, interactive personal website with a Netflix-style UI.  
 ✔ **Tech**: React, TypeScript, EmailJS, Vercel  
-✔ **Features**: Dynamic content, contact form integration, smooth animations.
+✔ **Features**: Dynamic content, smooth animations, contact form integration  
 
 ---
 
 ### 🚗 **Engine Rating Prediction**
-End-to-end ML system to predict vehicle engine health from 60+ parameters.
+End-to-end ML system to predict vehicle engine health using 60+ parameters.  
 ✔ **Tech**: Python, Streamlit, LightGBM, Scikit-Learn  
-✔ **Key**: Achieved R²=0.7 with production-ready predictions.
+✔ **Result**: Achieved **R² ≈ 0.70** with production-ready predictions  
 
 ---
 
 ### ⚡ **Energy Insight**
-AI-based energy optimization system predicting heating/cooling loads.
+AI-based energy optimization system for heating/cooling load prediction.  
 ✔ **Tech**: Python, Random Forest, Google Gemini Pro API  
-✔ **Key**: Generates human-readable energy-saving recommendations.
+✔ **Output**: Human-readable energy-saving recommendations  
 
 ---
 
 ### 🚚 **OptiRoute**
-Intelligent vehicle routing optimization system.
+Intelligent vehicle routing and logistics optimization system.  
 ✔ **Tech**: Python, AI/ML, Pathfinding Algorithms  
-✔ **Key**: Minimized travel time and fuel consumption for logistics.
+✔ **Impact**: Reduced travel time and fuel consumption  
 
 ---
 
 ### 📊 **Marketing Campaign Analytics**
-Analyzed 64,000+ customer records to predict conversion probability.
+Analyzed **64,000+ customer records** to predict conversion probability.  
 ✔ **Tech**: Python, Logistic Regression, A/B Testing  
-✔ **Key**: Validated insights using Chi-Square and T-Tests.
+✔ **Validation**: Chi-Square & T-Tests  
 
 ---
 
 ## 🌐 Connect with Me
 
-<div align="Center">
+<div align="center">
 <a href="https://leetcode.com/u/diyamatani17/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode" />
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=black&style=for-the-badge" height="35"/>
 </a>
 <a href="https://www.geeksforgeeks.org/profile/diyamato5s3" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Geeksforgeeks" />
+  <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&color=0F9D58&style=for-the-badge" height="35"/>
 </a>
 <a href="https://www.linkedin.com/in/diya-matani/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
 </a>
 <a href="https://github.com/diya-matani" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Github" />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="35"/>
 </a>
 </div>
 
 ---
+
 <p align="center"><i>"Hesitation is Defeat"</i></p>
-
----
-
