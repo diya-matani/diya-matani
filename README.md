@@ -48,4 +48,52 @@ I am passionate about building **real-world solutions using AI, ML, and Software
   _Tech:_ React, TypeScript, EmailJS, Vercel
 
 - **Engine Rating Prediction System**  
-  ML model predicting vehicle engine he
+  ML model predicting vehicle engine health using 60+ parameters  
+  _Tech:_ Python, Streamlit, LightGBM, Scikit-Learn
+
+- **Energy Insight**  
+  AI-driven energy optimization system with human-readable recommendations  
+  _Tech:_ Python, Random Forest, Gemini API
+
+- **OptiRoute**  
+  Intelligent vehicle routing and logistics optimization system  
+  _Tech:_ Python, AI/ML, Pathfinding Algorithms
+
+- **Marketing Campaign Analytics**  
+  Analyzed 64K+ customer records to predict conversion probability  
+  _Tech:_ Python, Logistic Regression, A/B Testing
+
+---
+
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/diya-matani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a target="_blank" href="https://github.com/diya-matani">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a target="_blank" href="https://leetcode.com/u/diyamatani17/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.geeksforgeeks.org/profile/diyamato5s3">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diya-matani&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-matani&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diya-matani&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+<p align="center"><i>"Hesitation is Defeat"</i></p>
