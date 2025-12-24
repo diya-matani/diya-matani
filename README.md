@@ -85,10 +85,6 @@ I am passionate about building **real-world solutions using AI, ML, and Software
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diya-matani&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-matani&layout=compact&theme=dark" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diya-matani&label=Profile%20Views&color=ff69b4&style=flat" />
